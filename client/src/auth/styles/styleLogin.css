@@ -1,0 +1,15 @@
+.contenedor {
+  position: relative;
+  width: 100%;
+  height: calc(100vh - 100px);
+}
+
+.contenedor .loginDiv{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+}
